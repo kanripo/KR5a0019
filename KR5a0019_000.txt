@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:35:00.995927
+#+TITLE: 太上升玄消災護命妙經
+#+PROPERTY: DZID  DZ0019
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，1—772 一卷 洞真部本文類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
